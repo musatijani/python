@@ -1,4 +1,4 @@
-"# python" 
-"# python" 
-"# python" 
+"# The notebook analyzes New york city Airbnb data to understand the factors influencing rental prices and to build predictive models for these prices." 
+"# The notebook detailed the data loading and preparation, exploratory data analysis with descriptive statistics and visualizations, predictive modeling using data splitting and model evaluation, and regularization techniques to improve model performance." 
+"# Technically, Mean RMSE: 0.43 indicates that, on average, the root mean squared error (a measure of prediction accuracy) is 0.43 units, suggesting that the model's predictions deviate from the actual values by 0.43 units on average. Standard Deviation of RMSE: 0.008 indicates that the variation in the RMSE across different folds or iterations is very low (0.008 units), suggesting that the model's performance is consistent and stable across different subsets of the data." 
 "# python" 
